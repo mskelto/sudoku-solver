@@ -1,0 +1,13 @@
+.SudokuTable {
+    background-color: white;
+    border: #000000;
+    
+}
+
+.SudokuInput {
+    text-align: center;
+    border:1px solid black;
+    width: 60px;
+    height: 60px
+
+}
